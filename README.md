@@ -294,24 +294,6 @@ Maintain consistent GitHub contributions while building a strong DSA foundation.
 
 ---
 
-# 📌 Suggested GitHub Topics
-
-```text
-dsa
-algorithms
-data-structures
-javascript
-coding-interview
-leetcode
-graphs
-binary-tree
-dynamic-programming
-problem-solving
-coding-practice
-```
-
----
-
 # 📢 Connect
 
 If you find this repository useful:
