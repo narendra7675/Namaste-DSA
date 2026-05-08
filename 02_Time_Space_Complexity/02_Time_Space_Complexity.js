@@ -77,4 +77,14 @@
  * 
  * log2(1000) = 9.965 equivalent to 10.
  * log 2 (100) = 6.64 whcih is to 7.
+ * 
+ */
+
+/**
+ * This is the complexity of algorithm.
+ * Algorith is doing the same thing, it is finding a elements inside an array.
+ * But the way algorithm working, it changes how many ietrations it does. How much time it takes.
+ * When the input size increases, how my algorithm behaves that is what is known as efficient algorithm or non-efficient algorithm
+ * 
+ * Binary search >>> Linear search
  */
